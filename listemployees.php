@@ -53,6 +53,7 @@ $employees = EmployeeDB::getEmployees();
 <head>
     <title>Caleb Portfolio</title>
     <meta charset="utf-8">
+    <link rel='icon' href='images/favicon.ico' type='image/x-icon'/>
     <link rel="stylesheet" href="css/styles.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
@@ -65,7 +66,7 @@ $employees = EmployeeDB::getEmployees();
 
     <nav>
         <ul>
-            <li><a href="index.html">Home</a> &nbsp; &nbsp;</li>
+            <li><a href="landing.html">Home</a> &nbsp; &nbsp;</li>
             <li><a href="experience.html">Experience</a> &nbsp; &nbsp;</li>
             <li><a href="samples.html">Samples</a> &nbsp; &nbsp;</li>
             <li><a href="about.html">About Me</a> &nbsp; &nbsp;</li>
